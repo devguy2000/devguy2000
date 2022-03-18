@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @devguy2000
-- 👀 I’m interested in C#, JS and TS!
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Coding in general!
+Have exposure♛ to building professional websites🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ as React.js, Redux, JavaScript, HTML, CSS, Bootstrap, Flexbox, GitHub, .Net, SQL, and C# and C++.
 
-<!---
-devguy2000/devguy2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 15+ mini & major projects💼 on Reactjs and other technologies. Also deployed and having live-hosted projects📽, checkout out my GitHub pages📒 or YouTube📲 channel for more details.
+
+
+🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲: 
+LinkedIn - https://www.linkedin.com/in/karthikkrishnar/
+GitHub - https://github.com/devguy2000
